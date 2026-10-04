@@ -1,0 +1,6 @@
+{
+  "name": "LocalSuper",
+  "description": "Multi-service local marketplace Super App for shopping, rides, tempo booking, local services, wallet, and promotions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
